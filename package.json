@@ -22,7 +22,7 @@
     "lodash": "^4.17.11",
     "logname": "0.0.1",
     "mongodb": "^3.2.2",
-    "mongoose": "^5.4.20",
+    "mongoose": "^5.7.5",
     "nodemailer": "^6.0.0",
     "otp-generator": "^1.1.0",
     "otplib": "^11.0.0",
