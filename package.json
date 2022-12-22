@@ -18,7 +18,7 @@
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "jsonschema": "^1.2.4",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.11",
     "logname": "0.0.1",
     "mongodb": "^3.2.2",
